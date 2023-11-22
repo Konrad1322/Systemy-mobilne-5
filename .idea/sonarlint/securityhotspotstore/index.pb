@@ -1,0 +1,27 @@
+
+D
+app/build.gradle.kts,d\2\d2a4383452aad84a18429a5844d31330a012a9e6
+@
+build.gradle.kts,d\b\dbcff70658daf80b53ce624f6adcaa529df5ed8d
+|
+Lapp/src/androidTest/java/com/example/todoappdwa/ExampleInstrumentedTest.java,2\a\2a2504d75693e121087075dacf956ba01ff29721
+P
+ app/src/main/AndroidManifest.xml,8\c\8c55c3ccc257e5907959013f99656e4c8ec3903e
+n
+>app/src/main/java/com/example/todoappdwa/TaskListActivity.java,0\e\0e93aca1bea509b5e7996b13f2650dd74a49d7fd
+b
+2app/src/main/java/com/example/todoappdwa/Task.java,9\f\9fea1d63fe347440dd1bdcb52b139e7a726a084c
+t
+Dapp/src/main/java/com/example/todoappdwa/SingleFragmentActivity.java,d\8\d856313eb55b832fed7fb667f1ef1e6ca786788b
+f
+6app/src/main/java/com/example/todoappdwa/Category.java,7\c\7c9d53b9d7b241b698b1a1d304fbc0004d3fe2d7
+j
+:app/src/main/java/com/example/todoappdwa/MainActivity.java,8\7\87c7caec6cb087428ae3125b7783b36d07cea0f1
+i
+9app/src/main/java/com/example/todoappdwa/TaskStorage.java,6\c\6c81c0faf9899c2aed7b7e0bb8070a1725dce905
+j
+:app/src/main/java/com/example/todoappdwa/TaskFragment.java,0\c\0cbd4815e749ea92e0e7347ba357ad2f54425dd2
+n
+>app/src/main/java/com/example/todoappdwa/TaskListFragment.java,d\2\d26ee15fc832ed3c3c89f270138ed5025d74ef66
+m
+=app/src/test/java/com/example/todoappdwa/ExampleUnitTest.java,7\a\7a8294cb825d3d129b803fee3146bf0efbb330bc
